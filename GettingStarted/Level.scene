@@ -1,0 +1,9 @@
+PlayerSpeed 1.5
+PlayerLocation 0 0 2
+Dimensions 40 40
+EnemySpeedRange 1 4
+NumOfHunters 20
+NumOfObservers 20
+CamOffsetMin 2
+CamOffsetMax 30
+CamStart 20
